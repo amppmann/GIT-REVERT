@@ -2,5 +2,3 @@ This is a cat
 This is a cat
 This is a cat
 This is a cat
-
-ANOTHER BAD COMMIT
